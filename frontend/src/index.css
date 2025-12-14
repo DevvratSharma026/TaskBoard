@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+.logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: bolder;
+}
