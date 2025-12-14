@@ -118,4 +118,4 @@ Built as part of a Frontend Developer Intern assignment, demonstrating frontend 
 
 ## Author
 
-Dev Sharma — Frontend / Full Stack Developer (MERN Stack)
+Devvrat Sharma — Frontend / Full Stack Developer (MERN Stack)
